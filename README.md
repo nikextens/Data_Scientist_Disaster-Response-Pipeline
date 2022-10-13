@@ -35,11 +35,11 @@ In this project, I use disaster data provided by [Figure Eight](https://www.figu
 ## Result
 With this project, I created a machine learning pipeline to categorize disaster events so that the user can send the messages to an appropriate disaster relief agency.
 
-![plot]([https://github.com/nikextens/Operationalizing_Machine_Learning/blob/main/screen-shot-2020-09-15-at-12.36.11-pm.png](https://github.com/nikextens/Data_Scientist_Disaster-Response-Pipeline/blob/main/TestData.png)](https://github.com/nikextens/Data_Scientist_Disaster-Response-Pipeline/blob/main/LandingPage.png))
+![plot](https://github.com/nikextens/Data_Scientist_Disaster-Response-Pipeline/blob/main/LandingPage.png)
 
 My project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app also displays visualizations of the data. 
 
-![plot]([https://github.com/nikextens/Operationalizing_Machine_Learning/blob/main/screen-shot-2020-09-15-at-12.36.11-pm.png](https://github.com/nikextens/Data_Scientist_Disaster-Response-Pipeline/blob/main/TestData.png))
+![plot](https://github.com/nikextens/Data_Scientist_Disaster-Response-Pipeline/blob/main/TestData.png)
 
 ## Acknowledgments
 Special thanks go to Udacity and Figure Eight which provided the dataset and useful hints to master this challenging task!
