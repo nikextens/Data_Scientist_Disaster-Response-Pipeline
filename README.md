@@ -27,16 +27,23 @@ The developer needs to import the following libraries to run the analysis:
 - flask
 
 ## Motivation for project
-lorem ipsum
-
+In emergency situations and disasters (e.g., flood events, hurricanes, earthquakes, terrorist attacks) information is key. However, sometimes the amount of information is overwhelming and it is hard to filter and categorize. In order to quickly react on disaster messages, machine learning algorithms are capable of supporting the receiver. By means of this project I am trying to contribute to that issue!
+ 
 ## Dataset
-lorem ipsum
+In this project, I use disaster data provided by [Figure Eight](https://www.figure-eight.com/) to train the model. The data contain real messages that were sent during disaster events!
 
 ## Result
-lorem ipsum
+With this project, I created a machine learning pipeline to categorize disaster events so that the user can send the messages to an appropriate disaster relief agency.
+
+![plot]([https://github.com/nikextens/Operationalizing_Machine_Learning/blob/main/screen-shot-2020-09-15-at-12.36.11-pm.png](https://github.com/nikextens/Data_Scientist_Disaster-Response-Pipeline/blob/main/TestData.png)](https://github.com/nikextens/Data_Scientist_Disaster-Response-Pipeline/blob/main/LandingPage.png))
+
+My project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app also displays visualizations of the data. 
+
+![plot]([https://github.com/nikextens/Operationalizing_Machine_Learning/blob/main/screen-shot-2020-09-15-at-12.36.11-pm.png](https://github.com/nikextens/Data_Scientist_Disaster-Response-Pipeline/blob/main/TestData.png))
 
 ## Acknowledgments
-Although the data are provided by Keggle, they are part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data/).
+Special thanks go to Udacity and Figure Eight which provided the dataset and useful hints to master this challenging task!
+
 
 
 
